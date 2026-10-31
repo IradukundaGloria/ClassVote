@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "589202962793",
+    "project_id": "classvote-498d1",
+    "storage_bucket": "classvote-498d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589202962793:android:8df2208fb7ba3a769f65f8",
+        "android_client_info": {
+          "package_name": "com.example.classvote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYGdg3CFuKAOP1hLT8KzJNlx-PBiT4Ui8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
